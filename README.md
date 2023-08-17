@@ -1,5 +1,5 @@
 # auto-extension-google
-####  Auto create extension for google google
+####  Auto create extension for google
 
 ## Requirement 
 NodeJS
